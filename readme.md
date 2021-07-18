@@ -8,4 +8,4 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 ## Pages
 
-* [01 - JavaScript Drum Kit](/01 - JavaScript Drum Kit) 
+* [01 - JavaScript Drum Kit](/170-JS-Challenge/01 - JavaScript Drum Kit) 
